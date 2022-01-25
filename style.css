@@ -269,3 +269,19 @@ footer{
     align-items: center;
     font-size: 25px;
 }
+.queBuscamosContent{
+    color: white;
+    height: 60%;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+.content{
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
