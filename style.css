@@ -23,7 +23,6 @@ html{
     vertical-align: middle;
     min-height: 100vh;
     position: relative;
-    margin-bottom: 500px;
     display: flex;
     justify-content: center;
     
@@ -171,7 +170,7 @@ a{
     vertical-align: middle;
     min-height: 100vh;
     
-    margin-bottom: 500px;
+  
 }
 .quienesSomosTitle {
     color: white;
@@ -209,7 +208,7 @@ a{
     vertical-align: middle;
     min-height: 100vh;
     
-    margin-bottom: 500px;
+    
 }
 .queBuscamosTitle{
     
